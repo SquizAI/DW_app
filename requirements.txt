@@ -5,3 +5,8 @@ matplotlib
 seaborn
 plotly
 openai
+scikit-learn
+imbalanced-learn
+shap
+geopandas
+watchdog
