@@ -19,7 +19,7 @@ except ImportError:
 # Page Configuration & Session State
 # -------------------------------
 st.set_page_config(
-    page_title="Comprehensive Data Wrangling & Analysis App",
+    page_title="Comprehensive Data Wrangling & Analysis App by Matty",
     layout="wide",
     initial_sidebar_state="expanded"
 )
