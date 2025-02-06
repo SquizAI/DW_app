@@ -2,7 +2,7 @@
 # Enhancement #1: Place st.set_page_config as the very first Streamlit command.
 import streamlit as st
 st.set_page_config(
-    page_title="Dataset-Agnostic Data Wrangling & Analysis App",
+    page_title="Dataset-Agnostic Data Wrangling & Analysis App by Matty",
     layout="wide",
     initial_sidebar_state="expanded"
 )
