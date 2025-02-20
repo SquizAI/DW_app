@@ -10,3 +10,8 @@ imbalanced-learn
 shap
 geopandas
 watchdog
+
+python-dotenv
+pyperclip
+xlsxwriter
+
