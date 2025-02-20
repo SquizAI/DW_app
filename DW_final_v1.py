@@ -209,7 +209,7 @@ def impute_missing_values(df: pd.DataFrame, strategy: str) -> pd.DataFrame:
 # -------------------------------
 
 def home_page():
-    st.title("Welcome to the Advanced Data Wrangling & Analysis App")
+    st.title("Welcome to the Advanced Data Wrangling & Analysis App by the dudes that made it")
     st.markdown("""
     **Overview:**  
     This application allows you to:
