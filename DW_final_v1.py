@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import streamlit as st
 st.set_page_config(
-    page_title="Advanced Data Wrangling & Analysis App by Matty",
+    page_title="Advanced Data Wrangling & Analysis App by the dudes who made it",
     layout="wide",
     initial_sidebar_state="expanded"
 )
